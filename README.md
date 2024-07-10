@@ -6,9 +6,9 @@ Passionate about translating raw data into actionable insights to drive growth, 
 
 ### Work Experience
 
-Nomura India Pvt Ltd
-Senior Data Analyst
-October 2023 - March 2024 (6 months)
+## Nomura India Pvt Ltd
+## Senior Data Analyst
+## October 2023 - March 2024 (6 months)
 
 ● Led migration of financial services platform at Nomura India from onprem Sybase IQ and Informatica to cloud-based Snowflake and Snowpark.
 Converted legacy ETL processes to Snowpark, enhancing scalability.
@@ -23,10 +23,10 @@ to Production. Ensured stability and performance of critical finance systems.
 ● Involved in cross-project planning for setting up Data Marts & Schema
 Planning for other projects on Snowflake
 
-FairPlay DMCC
-Senior Data Architect
-June 2022 - October 2023 (1 year 5 months)
-Dubai, United Arab Emirates
+## FairPlay DMCC
+## Senior Data Architect
+## June 2022 - October 2023 (1 year 5 months)
+## Dubai, United Arab Emirates
 
 ● Reported analytics insights directly to CTO and client executives to inform
 key business decisions, discussing various strategies to improve and innovate
@@ -46,9 +46,9 @@ data insights.
 ● Monitored data quality/integrity ensuring accuracy and consistency.
 
 
-Freelance BI Consultant
-January 2021 - April 2022 (1 year 4 months)
-India
+## Freelance BI Consultant
+## January 2021 - April 2022 (1 year 4 months)
+## India
 
 ● Launched E-commerce vertical generating the client $4.6 Million in sales on
 Amazon and Flipkart.
@@ -61,10 +61,11 @@ including deadline management and stock planning.
 ● Researched and implemented new administrative software systems to
 reduce communication redundancy.
 
-Aró Digital Strategy
-Data Analyst
-February 2020 - December 2020 (11 months)
-Ireland
+## Aró Digital Strategy
+## Data Analyst
+## February 2020 - December 2020 (11 months)
+## Ireland
+
 ● Developed and maintained robust Data Warehousing solutions to streamline
 data storage and accessibility for efficient analysis.
 ● Leveraged hotel booking reservation engine data to derive actionable
@@ -81,10 +82,10 @@ metrics, facilitating informed decision-making and fostering stronger business
 relationships.
 
 
-IDGAF Group
-Mobile Application Developer
-July 2016 - November 2019 (3 years 5 months)
-India
+## IDGAF Group
+## Mobile Application Developer
+## July 2016 - November 2019 (3 years 5 months)
+## India
 
 ● Designing and implementing UI/UX & App State Flow, Integrating REST
 based APIs and parsing response data asynchronously.
@@ -99,11 +100,10 @@ solutions.
 
 ### Education 
 
-Education
-Griffith College Dublin
-Master of Science - MS, Big Data Management & Analysis · (September 2018 - October 2019)
+## Griffith College Dublin
+# Master of Science - MS, Big Data Management & Analysis · (September 2018 - October 2019)
 
-University of Mumbai
-Bachelor of Engineering - BE, Computer Engineering · (August 2014 - August 2018)
+## University of Mumbai
+# Bachelor of Engineering - BE, Computer Engineering · (August 2014 - August 2018)
 
 
