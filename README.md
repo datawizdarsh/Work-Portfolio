@@ -4,11 +4,12 @@ Results-driven Data Analytics Leader with 7+ years of experience extracting insi
 Expertise in advanced analytics techniques, SQL and NoSQL databases, statistical modelling, data visualization tools and engineering ETL pipelines.
 Passionate about translating raw data into actionable insights to drive growth, increase efficiency, and inform strategy and innovation.
 
-### Work Experience
+# Work Experience
 
 ## Nomura India Pvt Ltd
-## Senior Data Analyst
-## October 2023 - March 2024 (6 months)
+### Senior Data Analyst
+### October 2023 - March 2024 (6 months)
+### Mumbai, India
 
 ● Led migration of financial services platform at Nomura India from onprem Sybase IQ and Informatica to cloud-based Snowflake and Snowpark.
 Converted legacy ETL processes to Snowpark, enhancing scalability.
@@ -24,9 +25,9 @@ to Production. Ensured stability and performance of critical finance systems.
 Planning for other projects on Snowflake
 
 ## FairPlay DMCC
-## Senior Data Architect
-## June 2022 - October 2023 (1 year 5 months)
-## Dubai, United Arab Emirates
+### Senior Data Architect
+### June 2022 - October 2023 (1 year 5 months)
+### Dubai, United Arab Emirates
 
 ● Reported analytics insights directly to CTO and client executives to inform
 key business decisions, discussing various strategies to improve and innovate
@@ -47,8 +48,8 @@ data insights.
 
 
 ## Freelance BI Consultant
-## January 2021 - April 2022 (1 year 4 months)
-## India
+### January 2021 - April 2022 (1 year 4 months)
+### India
 
 ● Launched E-commerce vertical generating the client $4.6 Million in sales on
 Amazon and Flipkart.
@@ -62,9 +63,9 @@ including deadline management and stock planning.
 reduce communication redundancy.
 
 ## Aró Digital Strategy
-## Data Analyst
-## February 2020 - December 2020 (11 months)
-## Ireland
+### Data Analyst
+### February 2020 - December 2020 (11 months)
+### Ireland
 
 ● Developed and maintained robust Data Warehousing solutions to streamline
 data storage and accessibility for efficient analysis.
@@ -83,9 +84,9 @@ relationships.
 
 
 ## IDGAF Group
-## Mobile Application Developer
-## July 2016 - November 2019 (3 years 5 months)
-## India
+### Mobile Application Developer
+### July 2016 - November 2019 (3 years 5 months)
+### India
 
 ● Designing and implementing UI/UX & App State Flow, Integrating REST
 based APIs and parsing response data asynchronously.
@@ -98,12 +99,12 @@ solutions.
 ● Reporting directly to the CTO, managing a team of 5 developers.
 
 
-### Education 
+# Education 
 
 ## Griffith College Dublin
-# Master of Science - MS, Big Data Management & Analysis · (September 2018 - October 2019)
+### Master of Science - MS, Big Data Management & Analysis · (September 2018 - October 2019)
 
 ## University of Mumbai
-# Bachelor of Engineering - BE, Computer Engineering · (August 2014 - August 2018)
+### Bachelor of Engineering - BE, Computer Engineering · (August 2014 - August 2018)
 
 
