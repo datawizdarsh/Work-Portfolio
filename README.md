@@ -7,19 +7,25 @@ Passionate about translating raw data into actionable insights to drive growth, 
 ### Work Experience
 
 Nomura India Pvt Ltd
+
 Senior Data Analyst
+
 October 2023 - March 2024 (6 months)
 
 ● Led migration of financial services platform at Nomura India from onprem Sybase IQ and Informatica to cloud-based Snowflake and Snowpark.
 Converted legacy ETL processes to Snowpark, enhancing scalability.
+
 ● Engineered Informatica workflows in Snowpark, migrating business logic
 to cloud-native architecture. Mastery of Snowpark demonstrated through
 successful migration of critical data pipelines for business reporting for Europe
 & Asia offices.
+
 ● Conducted knowledge transfer sessions for team members, promoting
 cross-training and upskilling on new Snowpark technology.
+
 ● Verified integrity of transformed architecture by testing in UAT and deploying
 to Production. Ensured stability and performance of critical finance systems.
+
 ● Involved in cross-project planning for setting up Data Marts & Schema
 Planning for other projects on Snowflake
 
@@ -49,6 +55,7 @@ data insights.
 Freelance BI Consultant
 January 2021 - April 2022 (1 year 4 months)
 India
+
 ● Launched E-commerce vertical generating the client $4.6 Million in sales on
 Amazon and Flipkart.
 ● Built in-house inventory management system tracking 1000+ SKUs capable
